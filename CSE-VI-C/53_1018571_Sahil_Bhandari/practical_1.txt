@@ -1,0 +1,9 @@
+#include java.io.*;
+
+class MockDrill{
+
+public static void main(String args[]){
+
+	System.out.println("Hello World!");
+	}
+}
